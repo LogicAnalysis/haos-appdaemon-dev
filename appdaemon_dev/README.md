@@ -2,8 +2,6 @@
 
 [![Release][release-shield]][release] ![Stage][stage-shield] ![Maintenance][maintenance-shield]
 
-Python Apps and HADashboard for Home Assistant
-
 ## About
 
 This is a Home Assistant addon for the dev branch of AppDaemon. It was mainly started to allow for early support of callable services with an expected return, a feature which is meant to be implemented in AppDaemon v. 4.5
